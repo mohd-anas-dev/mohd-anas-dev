@@ -58,7 +58,7 @@
 
 <!-- Top Profile Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-anas-dev&theme=ayu_mirage" alt="GitHub Profile" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-anas-dev&theme=monokai" alt="GitHub Summary Cards" />
 </p>
 
 <!-- 2-Column Grid for Other Stats -->
@@ -66,21 +66,21 @@
   <tr>
     <td align="center">
       <!-- Repos per Language -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-anas-dev&theme=ayu_mirage" alt="Repos per Language" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohd-anas-dev&theme=monokai" alt="Repos per Language" />
     </td>
     <td align="center">
       <!-- Most Committed Language -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-anas-dev&theme=ayu_mirage" alt="Most Committed Language" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohd-anas-dev&theme=monokai" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <!-- Stats (Commits, PRs, Issues) -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohd-anas-dev&theme=ayu_mirage" alt="GitHub Stats" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohd-anas-dev&theme=monokai" alt="GitHub Stats" />
     </td>
     <td align="center">
       <!-- Productive Time -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-anas-dev&theme=ayu_mirage&utcOffset=8" alt="Productive Time" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohd-anas-dev&theme=monokai&utcOffset=8" alt="Productive Time" />
     </td>
   </tr>
 </table>
