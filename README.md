@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/mohd-anas-dev/mohd-anas-dev/blob/main/banner.png" alt="Mohd Anas | Full-Stack Developer Banner" />
+  <img src="https://i.postimg.cc/SNNtSk0G/Grey-and-Black-Simple-Marketing-Linked-In-Banner-2.png" alt="Mohd Anas | Full-Stack Developer Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Mohd Anas</h1>
