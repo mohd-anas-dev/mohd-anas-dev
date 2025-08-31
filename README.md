@@ -13,8 +13,10 @@
 - 🔭 Currently working on **full-stack MERN projects**
 - 🌱 Exploring **Next.js, TypeScript & advanced backend systems**
 - 💡 Passionate about **creating efficient, user-friendly applications**
-- 📍 Based in **UAE**  
+- 📍 Based in **UAE**
+- 💼 My Portfolio: **https://mohdanasfolio.netlify.app/** 
 - 📧 Reach me: **ff2974247@gmail.com**
+
 
 ---
 
