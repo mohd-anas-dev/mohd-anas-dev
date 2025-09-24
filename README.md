@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://icenginev6.netlify.app/" target="_blank">
-        <img src="https://i.postimg.cc/CMsRs4f1/image.png" alt="IC Engine V6" width="100%" style="border-radius:15px; border:2px solid #444;" />
+        <img src="https://i.postimg.cc/hP96n6Z6/image.png" alt="IC Engine V6" width="100%" style="border-radius:15px; border:2px solid #444;" />
       </a>
       <br>
       <b>⚙️ IC Engine V6</b><br>
