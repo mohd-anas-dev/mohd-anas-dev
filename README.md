@@ -25,12 +25,12 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://echobionix.netlify.app/" target="_blank">
-        <img src="https://i.postimg.cc/XYzGy7Bk/image.png" alt="EchoBioNix" width="100%" style="border-radius:15px; border:2px solid #444;" />
+      <a href="https://clariospace-frontend.onrender.com/" target="_blank">
+        <img src="https://i.postimg.cc/1zyWyzVN/image.png" alt="ClarioSpace" width="100%" style="border-radius:15px; border:2px solid #444;" />
       </a>
       <br>
-      <b>🦾 EchoBioNix</b><br>
-      <sub>Smart Bionic Arm + Glove | Hardware + Web Control</sub>
+      <b>🗃️ ClarioSpace</b><br>
+      <sub>Clario Space - A unified workspace for all your academic resources.</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://icenginev6.netlify.app/" target="_blank">
