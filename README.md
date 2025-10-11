@@ -33,12 +33,12 @@
       <sub>Clario Space - A unified workspace for all your academic resources.</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://icenginev6.netlify.app/" target="_blank">
-        <img src="https://i.postimg.cc/hP96n6Z6/image.png" alt="IC Engine V6" width="100%" style="border-radius:15px; border:2px solid #444;" />
+      <a href="https://zaplink-jco4.onrender.com/" target="_blank">
+        <img src="https://i.postimg.cc/j5bNtnDH/image.png" alt="ZapLink" width="100%" style="border-radius:15px; border:2px solid #444;" />
       </a>
       <br>
-      <b>⚙️ IC Engine V6</b><br>
-      <sub>3D Web Simulation of a Working IC Engine</sub>
+      <b>⚡ZapLink</b><br>
+      <sub>Paste it. Shrink it. Share it. Zapped!</sub>
     </td>
   </tr>
 </table>
