@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://zaplink-jco4.onrender.com/" target="_blank">
-        <img src="https://i.postimg.cc/j5bNtnDH/image.png" alt="ZapLink" width="100%" style="border-radius:15px; border:2px solid #444;" />
+        <img src="https://i.postimg.cc/Fz8d7YPQ/image.png" alt="ZapLink" width="100%" style="border-radius:15px; border:2px solid #444;" />
       </a>
       <br>
       <b>⚡ZapLink</b><br>
